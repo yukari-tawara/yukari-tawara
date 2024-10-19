@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🌱 i've used it before ...
+[![My Skills](https://skillicons.dev/icons?i=cs,php,ts,js)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=angular,jquery,react,nextjs,materialui,html,bootstrap,css,sass)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,supabase)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma,xd)](https://skillicons.dev)
